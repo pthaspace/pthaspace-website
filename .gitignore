@@ -4,6 +4,10 @@ site/data/webpack.json
 /npm-debug.log
 yarn-error.log
 .netlify/
+.yarn/
 
 cypress/videos
 cypress/screenshots
+yarn.lock
+.yarnrc.yml
+yarn.lock
